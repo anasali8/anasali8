@@ -32,9 +32,10 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali8&show_icons=true&theme=radical&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali8&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasali8&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasali8&layout=compact&theme=radical&count_)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasali8&layout=compact&theme=radical&count_private=true&hide=html,css,jupyter%20notebook)
+
 
 ---
 
