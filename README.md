@@ -3,12 +3,9 @@
 </p>
 
 
-# Hi there, I'm Anas Ali  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Anas Ali  
 
-
-![Code Lover](https://img.shields.io/badge/💻-Code%20Lover-blue?style=for-the-badge)
-![Always Learning](https://img.shields.io/badge/📚-Always%20Learning-green?style=for-the-badge)
-
+</h1>
 
 ## ✨ About Me  
 - 💻 Passionate **.NET Developer**  
