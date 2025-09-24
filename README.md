@@ -12,7 +12,6 @@
 - 🖥️ Building desktop applications with **WinForms & EF Core**  
 - 🌐 Developing web apps with **Angular & ASP.NET Core**  
 - 🗄️ Working with **SQL Server & Entity Framework**  
-- 🌱 Currently learning **SignalR & real-time communication**  
 - 🎯 Goal: Create useful software that solves real problems  
 
 ---
