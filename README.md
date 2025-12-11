@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali8&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasali8&layout=compact&theme=radical&count_private=true&hide=html,css,jupyter%20notebook)
+![GitHub Stats](https://github-readme-stats-git-master-anasali8s-projects.vercel.app/api?username=anasali8&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-git-master-anasali8s-projects.vercel.app/api/top-langs/?username=anasali8&layout=compact&theme=radical&count_private=true&hide=html,css,jupyter%20notebook)
 
 ---
 
